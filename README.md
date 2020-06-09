@@ -16,11 +16,12 @@ The easiest way to create a new Hyperf project is to use Composer. If you don't 
 
 To create your new Hyperf project:
 
-$ git clone 
+$ git clone git@github.com:artisan-coder/hyperf-chat.git
+$ composer install -vvv
 
 Once installed, you can run the server immediately using the command below.
 
-$ composer install -vvv
+
 $ php bin/hyperf.php start
 
 This will start the cli-server on port `9501`, and bind it to all network interfaces. You can then visit the site at `http://localhost:9501/`
