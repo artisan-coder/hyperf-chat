@@ -28,11 +28,11 @@ This will start the cli-server on port `9501`, and bind it to all network interf
 
 which will bring up Hyperf default home page.
 # sample images
-*login
+* login
 ![login](https://i.loli.net/2020/06/09/XmHd4p6abhgFrWZ.png)
-*single_talk1
+* single_talk1
 ![single_talk](https://i.loli.net/2020/06/09/iBL1hFr7PASdIWT.png)
-*single_talk2
+* single_talk2
 ![lsingle_talk](https://i.loli.net/2020/06/09/wdZ5XSqPzRYy9jh.png)
-*room talk
+* room talk
 ![room talk](https://i.loli.net/2020/06/09/6Q3SOi2V5naoTZg.png)
